@@ -1,0 +1,10 @@
+{
+    "workbench.editor.enablePreviewFromCodeNavigation": true,
+    "workbench.editor.enablePreviewFromQuickOpen": true,
+    "editor.experimental.asyncTokenizationLogging": true,
+    "editor.experimental.asyncTokenizationVerification": true,
+    "editor.experimentalGpuAcceleration": "on",
+    "workbench.commandPalette.experimental.suggestCommands": true,
+    "workbench.experimental.cloudChanges.autoStore": "onShutdown",
+    "workbench.experimental.cloudChanges.partialMatches.enabled": true
+}
