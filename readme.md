@@ -3,12 +3,12 @@
 The Atlantis AI System is a comprehensive and interconnected artificial intelligence platform designed to tackle complex problems and generate consensus-based solutions. The system consists of several key components that work together seamlessly to achieve its objectives.
 
 1. ## Atlantis AI (Central Manager):
-   The Atlantis AI serves as the central coordinator and decision-maker of the entire AI system. It is responsible for overseeing the overall operation, delegating tasks to the 12 subordinate AI Subject Matter Experts (SME) , and managing the consensus-based decision-making process. The Atlantis AI utilizes API Specifications (OpenAPI) to define the interaction  the system, allowing for a standardized and well-documented interface for communication.
+   The Atlantis AI serves as the central coordinator and decision-maker of the entire AI system. It is responsible for overseeing the overall operation, delegating tasks to the 12 subordinate AI Subject Matter Experts (AI-SME) , and managing the consensus-based decision-making process. The Atlantis AI utilizes API Specifications (OpenAPI) to define the interaction  the system, allowing for a standardized and well-documented interface for communication.
 
    The Atlantis AI relies on Backend Code for integrating various AI models and managing the consensus-based decision-making process. It incorporates advanced algorithms and techniques to analyze the solutions provided by each subordinate AI SME and determine the most optimal and reliable outcome. The Atlantis AI also incorporates Monitoring & Logging capabilities to track system performance, identify potential issues, and ensure the smooth operation of the entire AI system.
 
 2. ## API Specifications (OpenAPI):
-   The API Specifications, based on the OpenAPI standard, define the interface and endpoints for interacting with the Atlantis AI system. They provide a clear and concise documentation of the available APIs, including request/response formats, authentication mechanisms, and error handling. The API Specifications serve as a contract between the Atlantis AI, Backend Code, and any external systems or clients that interact with the AI system.
+   The API Specifications, based #:⅞(;*on the OpenAPI standard, define the interface and endpoints for interacting with the Atlantis AI system. They provide a clear and concise documentation of the available APIs, including request/response formats, authentication mechanisms, and error handling. The API Specifications serve as a contract between the Atlantis AI, Backend Code, and any external systems or clients that interact with the AI system.
 
    The Atlantis AI and Backend Code rely on the API Specifications to implement the necessary API endpoints and ensure consistent and reliable communication. The OpenAPI standard allows for easy integration with various programming languages and frameworks, making it flexible and adaptable to different development environments.
 
